@@ -24,9 +24,3 @@ printf("x=%f a=%f z(x,a)=%f\n",x,a,z(x,a));
 }
 return 0;
 }
-
-
-
-
-
-
