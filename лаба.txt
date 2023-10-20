@@ -19,7 +19,7 @@ for(float x=1; x<=3; x+=1.3)
 {
 for(float a=2;a<=4;a+=1.3)
 {
-printf("x=%f a=%f z(x,a)=%f\",x,a,z(x,a));
+printf("x=%f a=%f z(x,a)=%f\n",x,a,z(x,a));
 }
 }
 return 0;
